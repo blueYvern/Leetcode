@@ -1,4 +1,4 @@
-class Solution {
+class GreatString {
     public String makeGood(String s) {
         
         StringBuffer sb = new StringBuffer(s); 
